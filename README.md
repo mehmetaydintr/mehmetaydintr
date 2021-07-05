@@ -3,10 +3,10 @@
 
 ### Projects
 <p align="center">
-  <a href="https://github.com/mehmetaydintr/E_Ticaret_Sitesi"><img title="E-commerce Web Site" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=FlowerClassPrediction&theme=material-palenight"></a>
+  <a href="https://github.com/mehmetaydintr/E_Ticaret_Sitesi"><img title="E-commerce Web Site" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetaydintr&repo=FlowerClassPrediction&theme=material-palenight"></a>
   <a href="https://github.com/mehmetaydintr/CoffeeShop"><img title="Coffee Shop" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=AtikVar&theme=material-palenight"></a>
   <a href="https://github.com/mehmetaydintr/Kutuphane_Otomasyonu_2"><img title="Library Automation" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=CarRental&theme=material-palenight"></a>
-   <a href="https://github.com/mehmetaydintr/Bayrak_Quiz_App"><img title="Flag Quiz App" src="https://github-readme-stats.vercel.app/api/pin/?username=emredemirr&repo=CarPricePrediction&theme=material-palenight"></a>
+   <a href="https://github.com/mehmetaydintr/Bayrak_Quiz_App"><img title="Flag Quiz App" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetaydintr&repo=Bayrak_Quiz_App&theme=material-palenight"></a>
 </p>
 
 ### Contact
