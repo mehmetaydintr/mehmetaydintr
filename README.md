@@ -10,7 +10,7 @@
 + 🌱 I’m currently learning Java, Android, Dart, Flutter
 + ⚡ I like to learn new stuffs.
 
-## Skills:  
+## Skills
 
 <p>
   <div>
